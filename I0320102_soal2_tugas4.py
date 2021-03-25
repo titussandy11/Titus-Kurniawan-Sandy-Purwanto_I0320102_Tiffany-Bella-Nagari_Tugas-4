@@ -1,5 +1,8 @@
-a = 20
-b = 15
+#Implementasi Program dengan Operator Floor
 
-#Output : x//y = 1
-print("a//b = ", a//b)
+x = int(input("Input Angka Pertama  = "))
+y = int(input("Input Angka Pertama = "))
+
+hasil_operation_floor = x // y
+
+print(x, '//', y, '=', hasil_operation_floor)
