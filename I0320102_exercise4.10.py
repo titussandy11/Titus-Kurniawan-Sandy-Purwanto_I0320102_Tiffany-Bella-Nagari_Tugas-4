@@ -3,13 +3,8 @@
 #Kelas C
 #Exercise 4.10
 
-string : Hello World
-
-skipping : x x x x x
-final str : HloWrd
-
-#string
 str = "Hello World"
 
-#Skip
-new_str = str[0:2]
+#skip
+new_str = str[0::2]
+print(new_str)
