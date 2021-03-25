@@ -1,4 +1,4 @@
-s = "Hey my name is mariee"
+s = "Hey my name is marie"
 
 # Panjangnya harusnya 20
 print("panjang dari s = %d" % len(s))
