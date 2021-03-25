@@ -27,8 +27,8 @@ if s.startswith("Hey"):
  print("String dimulai dengan 'Hey'. Good!")
 
 # cek bagaimana string itu diakhiri
-if s.endswith("iee"):
- print("String diakhiri dengan 'iee'. Good!")
+if s.endswith("ie"):
+ print("String diakhiri dengan 'ie'. Good!")
 # Pisahkan string menjadi tiga string yang terpisah,
 # masing-masing hanya berisi satu kata
 print("Pisahkan kata-kata dari string tersebut: %s" % s.split(" "))
