@@ -16,4 +16,3 @@ print("Line 2-Value of c is ", c)
 
 c = a^b;
 print("Line 3-Value of c is ", c)
-
